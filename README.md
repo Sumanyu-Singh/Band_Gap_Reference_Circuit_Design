@@ -140,7 +140,7 @@ mfg=Philips)
 
 ![image](https://user-images.githubusercontent.com/100671647/234963565-d2daf056-a4ef-43c4-b952-08ee3df21f21.png)
 
-SO after adjusting the W/L values for PMOS and NMOS we get the optimised output.
+So, after adjusting the W/L values for PMOS and NMOS we get the optimised output.
 
 ## Optimized BGR Circuit
 ![image](https://user-images.githubusercontent.com/100671647/234963675-11a8fbfe-f08c-4b8e-9276-fb88ecf76777.png)
